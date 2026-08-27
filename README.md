@@ -1,1 +1,2 @@
-# Beepy Hardware
+# Bitra
+A portable linux handheld.
